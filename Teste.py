@@ -1,0 +1,8 @@
+print("Hello Word!")
+print(2+2)
+print(2+5/3*10)
+print(5+5*5)
+print(5+5*5-10)
+print(5-10+5*5)
+nome = input("Digite seu nome!")
+print("O seu nome é:", nome)
